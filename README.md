@@ -1,6 +1,6 @@
 # DashOptionPricing
 
-A Plotly Dash Application to Price European Call and Put Options
+A Plotly Dash Application to Price European Call and Put Options code for the following post https://www.codearmo.com/python-tutorial/financial-option-pricing-dashboard-python-dash#
 
 Welcome to DashOptionPricing, a powerful and interactive web application built with Plotly Dash to help you price European call and put options. This application provides a user-friendly interface to input various parameters and calculate option prices using the Black-Scholes model, taking into account dividends and other factors.
 
